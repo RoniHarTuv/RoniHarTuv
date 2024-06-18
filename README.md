@@ -1,15 +1,16 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome+To+Roni's+git!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome+To+Roni's+git!!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enjoy,+Go+over+all+my+Projects!!)
 
 <div style="background-color: white; padding: 20px;">
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/l4KibKeOEx2soLsyc/giphy.gif" width="100"/>
   </div>
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/roni-har-tuv-11aa12247/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/RoniHarTuv">
+    <a href="https://github.com/yourusername">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
@@ -22,7 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="50" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
