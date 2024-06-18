@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome+To+Roni's+git!!!!)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enjoy,+Go+over+all+my+Projects!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enjoy,+Go+over+all+my+Projects!!!!)
 
 <div style="background-color: white; padding: 20px;">
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/l4KibKeOEx2soLsyc/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100"/>
   </div>
 
   <div id="badges" align="center">
@@ -24,10 +24,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="50" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="filter: invert(68%) sepia(72%) saturate(5908%) hue-rotate(9deg) brightness(99%) contrast(90%);">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="filter: invert(68%) sepia(72%) saturate(5908%) hue-rotate(9deg) brightness(99%) contrast(90%);">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   </div>
