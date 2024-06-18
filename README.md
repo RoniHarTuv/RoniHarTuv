@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome+To+Roni's+git!)
+
 <div style="background-color: white; padding: 20px;">
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
@@ -7,7 +9,7 @@
     <a href="https://www.linkedin.com/in/roni-har-tuv-11aa12247/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/RoniHarTuv">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
