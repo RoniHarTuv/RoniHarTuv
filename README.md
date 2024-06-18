@@ -5,7 +5,6 @@
 <div style="background-color: white; padding: 20px;">
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100"/>
-    <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="100"/>
   </div>
 
   <div id="badges" align="center">
