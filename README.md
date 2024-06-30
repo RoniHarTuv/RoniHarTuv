@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome+To+Roni's+git!!!!)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enjoy,❤️+Go+over+all+my+Projects!!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enjoy,❤️)
 
 <div style="background-color: white; padding: 20px;">
   <div id="header" align="center">
